@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [digital-stage.org](https://www.digital-stage.org)
-
 ![delude88's github stats](https://github-readme-stats.vercel.app/api?username=delude88)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delude88)
 <!--
